@@ -112,3 +112,4 @@ This is an independent financial analysis project created for educational and po
 ## Data Sources
 
 Financial data was derived from BASF's publicly available financial reporting.
+Git and SSH practice.
